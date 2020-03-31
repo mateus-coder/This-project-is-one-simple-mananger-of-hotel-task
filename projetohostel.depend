@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1575513310 source:c:\users\computrailer\documents\projetohostel\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constantes.h"
+
+1575511043 c:\users\computrailer\documents\projetohostel\constantes.h
+
+1575512172 source:c:\users\computrailer\documents\projetohostel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"funcoes.h"
+	<string.h>
+	"constantes.h"
+
+1575511341 c:\users\computrailer\documents\projetohostel\funcoes.h
+
